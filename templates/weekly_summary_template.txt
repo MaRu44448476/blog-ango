@@ -1,0 +1,37 @@
+【週刊仮想通貨レポート】{date}週の市場動向まとめ
+
+<h2>今週の仮想通貨市場概況</h2>
+<p>{market_overview}</p>
+
+<h2>注目ニュース</h2>
+
+<h3>1. {news_1_title}</h3>
+<p>{news_1_summary}</p>
+
+<h3>2. {news_2_title}</h3>
+<p>{news_2_summary}</p>
+
+<h3>3. {news_3_title}</h3>
+<p>{news_3_summary}</p>
+
+<h3>4. {news_4_title}</h3>
+<p>{news_4_summary}</p>
+
+<h3>5. {news_5_title}</h3>
+<p>{news_5_summary}</p>
+
+<h2>市場分析</h2>
+<p>{market_analysis}</p>
+
+<h3>主要通貨の週間パフォーマンス</h3>
+<ul>
+<li>**ビットコイン (BTC)**: {btc_performance}</li>
+<li>**イーサリアム (ETH)**: {eth_performance}</li>
+<li>**その他アルトコイン**: {altcoin_performance}</li>
+</ul>
+
+<h2>来週の注目ポイント</h2>
+<p>{next_week_outlook}</p>
+
+<hr>
+<p><small>※本記事は情報提供を目的としており、投資助言ではありません。投資判断は自己責任でお願いします。</small></p>

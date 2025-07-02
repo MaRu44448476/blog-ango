@@ -1,0 +1,17 @@
+{title}
+
+<h2>概要</h2>
+<p>{summary}</p>
+
+<h2>詳細</h2>
+<p>{detailed_content}</p>
+
+<h2>市場への影響</h2>
+<p>{market_impact}</p>
+
+<h2>まとめ</h2>
+<p>{conclusion}</p>
+
+<hr>
+<p><small>情報源: {source} | 投稿日: {publish_date}</small></p>
+<p><small>※本記事は情報提供を目的としており、投資助言ではありません。</small></p>

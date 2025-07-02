@@ -1,0 +1,45 @@
+# 環境変数ファイル
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# データベース
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# ログファイル
+logs/*.log
+logs/*.txt
+
+# 一時ファイル
+*.tmp
+*.temp
+preview_article_*.html
+
+# IDEファイル
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# テストファイル
+test_output/
+temp_files/
+
+# パッケージ
+*.egg-info/
+dist/
+build/
