@@ -1,0 +1,305 @@
+{
+  "timestamp": "2025-07-02T23:55:10.003256",
+  "total_candidates": 10,
+  "candidates": [
+    {
+      "index": 1,
+      "news": {
+        "title": "Bitcoin $200K Target Still in Play, Driven by ETF, Corporate Treasury Buying: StanChart",
+        "url": "https://www.coindesk.com/markets/2025/07/02/bitcoin-200k-target-still-in-play-driven-by-etf-corporate-treasury-buying-stanchart",
+        "description": "Bullish catalysts include sustained ETF inflows, corporate treasury adoption and U.S. regulatory moves, the report said.",
+        "source": "CoinDesk",
+        "pubdate": "Wed, 02 Jul 2025 13:38:26 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "ビットコイン 200K Target Still in Play、 Driven by ETF、 Corporate Treasury Buying: StanChart",
+      "categories": [
+        "💰 価格・相場",
+        "🏦 機関投資",
+        "🎨 NFT・ゲーム",
+        "🤝 企業・提携"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "💹 「投資家必見」価格動向の分析と注意点",
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 2,
+      "news": {
+        "title": "SEC Approves Grayscale ETF That Includes BTC, ETH, SOL, XRP, ADA",
+        "url": "https://www.coindesk.com/markets/2025/07/01/sec-approves-grayscale-etf-that-includes-btc-eth-sol-xrp-ada",
+        "description": "The product will become the largest multi-token digital asset ETF in the world.",
+        "source": "CoinDesk",
+        "pubdate": "Tue, 01 Jul 2025 18:15:32 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "SEC（米証券取引委員会） 承認 Grayscale ETF That Includes ビットコイン、 イーサリアム、 ソラナ、 リップル、 カルダノ",
+      "categories": [
+        "⚖️ 規制・政策",
+        "🏦 機関投資"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "⚖️ 長期的な市場への影響が大きく、今後の動向を占う重要な材料です",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "🏛️ 「どう影響する？」規制ニュースを日本の投資家目線で解説",
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響",
+        "🔷 「イーサリアム解説」技術的なアップデートをわかりやすく説明"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 3,
+      "news": {
+        "title": "Standard Chartered expects Bitcoin to hit new highs of $135K in Q3",
+        "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-price-135000-q3-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IwNWMtZjhmMy03ZTk5LTg4NmItMjU3YTg2MmU2Yzcx.jpg\" alt=\"Standard Chartered expects Bitcoin to hit new highs of $135K in Q3\">",
+        "source": "CoinTelegraph",
+        "pubdate": "Wed, 02 Jul 2025 10:41:05 +0100",
+        "importance_score": 100
+      },
+      "japanese_title": "Standard Chartered 予想 ビットコイン 到達予測 新高値 of 135K in Q3",
+      "categories": [
+        "💰 価格・相場",
+        "🎨 NFT・ゲーム"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "💹 「投資家必見」価格動向の分析と注意点",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 4,
+      "news": {
+        "title": "Why On-Chain Metrics Miss the Full Picture of Institutional Bitcoin Buying",
+        "url": "https://decrypt.co/328136/chain-metrics-miss-full-picture-institutional-bitcoin-buying",
+        "description": "Bitcoin hit a record monthly close in June, but experts say on-chain data is missing the scale of institutional demand via ETFs and OTC desks.",
+        "source": "Decrypt",
+        "pubdate": "Wed, 02 Jul 2025 06:34:35 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "Why On-Chain Metrics Miss the Full Picture of Institutional ビットコイン Buying",
+      "categories": [
+        "🏦 機関投資"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 5,
+      "news": {
+        "title": "Hong Kong-Based Food Firm Secures $528 Million to Boost Bitcoin Treasury",
+        "url": "https://decrypt.co/328005/hong-kong-food-firm-528-million-boost-bitcoin-treasury",
+        "description": "Publicly traded DDC Enterprise plans to buy 5,000 BTC over the next three years after raising fresh funding to fuel its Bitcoin strategy.",
+        "source": "Decrypt",
+        "pubdate": "Tue, 01 Jul 2025 19:42:37 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "Hong Kong-Based Food Firm 調達 528 Million to 増強 ビットコイン Treasury",
+      "categories": [
+        "💰 価格・相場",
+        "⚖️ 規制・政策",
+        "🏦 機関投資"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "⚖️ 長期的な市場への影響が大きく、今後の動向を占う重要な材料です",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "💹 「投資家必見」価格動向の分析と注意点",
+        "🏛️ 「どう影響する？」規制ニュースを日本の投資家目線で解説",
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 6,
+      "news": {
+        "title": "Grayscale ETF Holding XRP, Solana and Cardano Receives SEC Green Light",
+        "url": "https://decrypt.co/328048/grayscale-etf-holding-xrp-solana-cardano-sec-green-light",
+        "description": "The regulator approved Grayscale's bid to convert a fund primarily focused on Bitcoin, but also holding other major cryptocurrencies, into an exchange-traded fund.",
+        "source": "Decrypt",
+        "pubdate": "Tue, 01 Jul 2025 18:41:07 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "Grayscale ETF Holding リップル、 ソラナ and Cardano Receives SEC（米証券取引委員会） Green Light",
+      "categories": [
+        "⚖️ 規制・政策",
+        "🏦 機関投資",
+        "🏢 取引所・プラットフォーム"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "⚖️ 長期的な市場への影響が大きく、今後の動向を占う重要な材料です",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "🏛️ 「どう影響する？」規制ニュースを日本の投資家目線で解説",
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 7,
+      "news": {
+        "title": "MACRO, CRYPTO UNICORNS, ROBINHOOD & NYC TAKEAWAYS",
+        "url": "https://decrypt.co/videos/interviews/uK36sQMB/macro-crypto-unicorns-robinhood-nyc-takeaways",
+        "description": "XRP, DOGE lead majors with positive funding rates. BTC & ETH ETFs extend inflows streak. RexShares SOL staking ETF to go live Wednesday. SEC delays staking for Bitwise ETH ETF. Robinhood intros staking, tokenised stocks, L2 chain. Robinhood stock hits ATH on announcements. Raydium, XStocks launch to",
+        "source": "Decrypt",
+        "pubdate": "Tue, 01 Jul 2025 17:54:52 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "MACRO、 仮想通貨 UNICORNS、 ROBINHOOD と NYC TAKEAWAYS",
+      "categories": [
+        "💰 価格・相場",
+        "⚖️ 規制・政策",
+        "🏦 機関投資",
+        "🔗 DeFi・プロトコル",
+        "📊 マクロ経済"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "⚖️ 長期的な市場への影響が大きく、今後の動向を占う重要な材料です",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "🔗 最新のDeFiトレンドがわかり、技術的な理解が深まります",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "💹 「投資家必見」価格動向の分析と注意点",
+        "🏛️ 「どう影響する？」規制ニュースを日本の投資家目線で解説",
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響",
+        "⚙️ 「最新技術解説」DeFi初心者でもわかる仕組みと可能性"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 8,
+      "news": {
+        "title": "BTC RECORD MONTHLY CLOSE, TOKENISED STOCK TRADING BLOOMS, STAKING ETFS COMING",
+        "url": "https://decrypt.co/videos/interviews/ouIWXcRV/btc-record-monthly-close-tokenised-stock-trading-blooms-staking-etfs-coming",
+        "description": "XRP, DOGE lead majors with positive funding rates. BTC & ETH ETFs extend inflows streak. RexShares SOL staking ETF to go live Wednesday. SEC delays staking for Bitwise ETH ETF. Robinhood intros staking, tokenised stocks, L2 chain. Robinhood stock hits ATH on announcements. Raydium, XStocks launch to",
+        "source": "Decrypt",
+        "pubdate": "Tue, 01 Jul 2025 15:48:19 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "ビットコイン RECORD MONTHLY CLOSE、 TOKENISED STOCK トレード BLOOMS、 ステーキング ETF COMING",
+      "categories": [
+        "💰 価格・相場",
+        "⚖️ 規制・政策",
+        "🏦 機関投資",
+        "🔗 DeFi・プロトコル",
+        "🏢 取引所・プラットフォーム"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "⚖️ 長期的な市場への影響が大きく、今後の動向を占う重要な材料です",
+        "🏦 大口投資家の動向がわかり、市場の流れを読むのに役立ちます",
+        "🔗 最新のDeFiトレンドがわかり、技術的な理解が深まります",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "💹 「投資家必見」価格動向の分析と注意点",
+        "🏛️ 「どう影響する？」規制ニュースを日本の投資家目線で解説",
+        "🏢 「大手が動いた！」機関投資家の動向が個人投資家に与える影響",
+        "⚙️ 「最新技術解説」DeFi初心者でもわかる仕組みと可能性",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 9,
+      "news": {
+        "title": "BTC STEADY, ROBINHOOD CRYPTO ANNOUNCEMENT TODAY, S&P 500 ATH",
+        "url": "https://decrypt.co/videos/interviews/0oiOOgPI/btc-steady-robinhood-crypto-announcement-today-sp-500-ath",
+        "description": "BTC steady ahead of jobs data, trade deal news. Robinhood to make crypto announcement today. ARB leads altcoins on Robinhood rumours. BTC is great, it takes pressure off USD: Trump. Should have up to 40% allocation to crypto: Edelman. Metaplanet buys $108m BTC. Vanadi Coffee plans to buy $1bn BTC. C",
+        "source": "Decrypt",
+        "pubdate": "Mon, 30 Jun 2025 15:31:34 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "ビットコイン 安定、 ROBINHOOD 仮想通貨 ANNOUNCEMENT TODAY、 SとP 500 ATH",
+      "categories": [
+        "💰 価格・相場"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "💹 「投資家必見」価格動向の分析と注意点",
+        "₿ 「ビットコイン特集」今回のニュースが長期トレンドに与える影響"
+      ],
+      "total_score": 100.0
+    },
+    {
+      "index": 10,
+      "news": {
+        "title": "CRYPTO EDGES HIGHER, TRUMP FAMILY REDUCES WLFI STAKE, PUMPFUN TOKEN DELAYED!",
+        "url": "https://decrypt.co/videos/interviews/qPEdhutt/crypto-edges-higher-trump-family-reduces-wlfi-stake-pumpfun-token-delayed",
+        "description": "CRYPTO EDGES HIGHER, TRUMP FAMILY REDUCES WLFI STAKE, PUMPFUN TOKEN DELAYED!\nFOMO HOUR LIVE ON DEGENZ.\n\nDegenz Live is the only content you need for crypto, macro, trading, gambling and risk-taking.\nPowered by MYRIAD MARKETS, REKT BRANDS and YEET CASINO.\n\nCrypto edges higher on volatile macro. Circl",
+        "source": "Decrypt",
+        "pubdate": "Fri, 20 Jun 2025 15:54:46 +0000",
+        "importance_score": 100
+      },
+      "japanese_title": "仮想通貨 小幅上昇、 TRUMP FAMILY 削減 WLFI STAKE、 PUMPFUN トークン 延期!",
+      "categories": [
+        "💰 価格・相場",
+        "🏢 取引所・プラットフォーム",
+        "📊 マクロ経済"
+      ],
+      "interest_score": 100,
+      "pitches": [
+        "🔥 超話題！多くのメディアが注目している重要ニュースです",
+        "💰 価格に直接影響する可能性があり、投資判断の参考になります",
+        "👥 多くの日本人読者が関心を持ちそうな内容です"
+      ],
+      "angles": [
+        "📊 「なぜ急上昇？」価格上昇の背景を初心者向けに解説"
+      ],
+      "total_score": 100.0
+    }
+  ]
+}
