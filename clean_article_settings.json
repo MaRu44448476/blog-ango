@@ -1,0 +1,15 @@
+{
+  "article_generation": {
+    "include_credits": false,
+    "include_footer": false,
+    "clean_output": true
+  },
+  "image_generation": {
+    "include_watermark": false,
+    "clean_captions": true
+  },
+  "wordpress_publishing": {
+    "clean_content": true,
+    "remove_system_tags": true
+  }
+}

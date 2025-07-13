@@ -203,8 +203,8 @@ class ClaudeGenerator:
         content += "</p>\n\n"
         
         # 免責事項
-        content += "<hr>\n"
-        content += "<p><small>※本記事は情報提供を目的としており、投資助言ではありません。投資判断は自己責任でお願いします。</small></p>"
+        content += "<p><strong>【重要な免責事項】</strong><br>"
+        content += "本記事は情報提供を目的としており、投資助言ではありません。投資判断は自己責任でお願いします。</p>"
         
         # 文字数をカウント
         word_count = len(content.replace(' ', '').replace('\n', '').replace('<', '').replace('>', ''))
@@ -305,9 +305,8 @@ class ClaudeGenerator:
         article_content += f"<p>今回の{source.upper()}からの報道は、仮想通貨業界の動向を理解する上で重要な情報となります。引き続き関連する動向に注目していく必要があります。</p>\n\n"
         
         # ソース情報と免責事項
-        article_content += "<hr>\n"
         article_content += f"<p><small>情報源: {source.upper()} | 投稿日: {datetime.now().strftime('%Y年%m月%d日')}</small></p>\n"
-        article_content += "<p><small>※本記事は情報提供を目的としており、投資助言ではありません。</small></p>"
+        article_content += "<p><strong>【重要な免責事項】</strong><br>本記事は情報提供を目的としており、投資助言ではありません。</p>"
         
         # カテゴリとタグを判定
         category = self._determine_article_category(news_item)
